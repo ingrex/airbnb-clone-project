@@ -21,14 +21,14 @@ This is a full-stack clone of the Airbnb web application, developed as part of t
 
 ## UI/UX Design Planning
 
-### 🎯 Design Goals
+###  Design Goals
 The objective is to create a user-friendly, modern, and responsive web interface that mimics the real Airbnb platform experience. The key design principles include:
 - Clean, intuitive navigation
 - Mobile responsiveness
 - Fast-loading, interactive elements
 - Accessible and inclusive layout for diverse users
 
-### ⭐ Key Features to Implement
+###  Key Features to Implement
 - Property browsing and filtering
 - Detailed property descriptions with images
 - Booking and checkout process
@@ -36,7 +36,7 @@ The objective is to create a user-friendly, modern, and responsive web interface
 - Saved favorites (wishlist)
 - User dashboard for bookings and listings (if extended)
 
-### 📄 Page Descriptions
+###  Page Descriptions
 
 | Page Title               | Description                                                                                   |
 |-------------------------|-----------------------------------------------------------------------------------------------|
@@ -44,7 +44,7 @@ The objective is to create a user-friendly, modern, and responsive web interface
 | **Listing Detailed View**| Shows complete details of a selected property. Includes full image gallery, amenities, map location, host info, and booking CTA. |
 | **Simple Checkout View** | Lets users confirm their booking. Includes selected property, booking dates, price breakdown, and payment method. Simple and distraction-free design. |
 
-### 💡 Importance of User-Friendly Design in a Booking System
+###  Importance of User-Friendly Design in a Booking System
 A user-friendly UI/UX design ensures:
 - **Trust:** Users are more likely to complete bookings on a secure, clean-looking interface.
 - **Efficiency:** Easy navigation helps users find and book properties quickly.
@@ -54,7 +54,7 @@ A user-friendly UI/UX design ensures:
 Good UI/UX is not just about looks—it's about creating a seamless experience that feels natural and supportive to the user's goals.
 
 ---
-### 🎨 Color Styles
+###  Color Styles
 The following color styles are used across the Airbnb Clone UI to ensure consistency and visual appeal:
 
 - **Primary Color:** #FF5A5F (Airbnb red)
@@ -66,7 +66,7 @@ The following color styles are used across the Airbnb Clone UI to ensure consist
 - **Error Color:** #FF0000 (used for form errors, warnings)
 - **Light Grey Background:** #F7F7F7 (used for section dividers, card backgrounds)
 
-### 🔤 Typography
+###  Typography
 A consistent and readable typography scheme helps users navigate and interact with the platform easily:
 
 - **Font Family:** `Circular Std`, fallback to `Helvetica Neue`, `Arial`, `sans-serif`
@@ -81,7 +81,7 @@ A consistent and readable typography scheme helps users navigate and interact wi
   - Body Text: 16px
   - Caption / Small text: 12px
 
-### 🧠 Why Identifying Design Properties Matters
+###  Why Identifying Design Properties Matters
 Identifying the design properties from a mockup (like those in Figma) is crucial for the following reasons:
 
 - **Consistency:** Applying the same colors, fonts, and layouts across all pages ensures the interface feels unified and professional.
@@ -114,30 +114,30 @@ Each role plays a critical part in ensuring a smooth, collaborative, and success
 
 To maintain consistency and modularity in the Airbnb Clone interface, the following reusable UI components will be created:
 
-### 🔝 Navbar
+###  Navbar
 - Displays the logo, navigation links, and user profile icon.
 - Responsive design with mobile-friendly dropdowns or a hamburger menu.
 - Includes a search bar and login/sign-up buttons.
 
-### 🏘️ Property Card
+###  Property Card
 - Shows a snapshot of each property listing including image, title, location, price, and rating.
 - Clickable to navigate to the detailed listing view.
 - Designed to display in a responsive grid layout.
 
-### 📄 Listing Details Section
+###  Listing Details Section
 - Contains an image gallery, property description, amenities, and host details.
 - Booking button and calendar for selecting dates.
 - Structured for clarity and ease of navigation.
 
-### 💳 Booking Summary / Checkout Box
+###  Booking Summary / Checkout Box
 - Displays selected property info, booking dates, cost breakdown, and payment options.
 - Clean and minimal layout to reduce distractions.
 
-### 📦 Footer
+###  Footer
 - Includes links to important pages like Contact, Terms, Help, and social media icons.
 - Responsive and accessible across screen sizes.
 
-### 📑 Other Planned Components
+###  Other Planned Components
 - **Search Filter Panel:** For sorting by location, price, amenities, etc.
 - **Login/Signup Modal:** For user authentication.
 - **Review Card:** To show user feedback and ratings.
